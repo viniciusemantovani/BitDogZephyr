@@ -1,0 +1,4 @@
+west:
+  command: /home/pininsu/Documents/BitDogZephyr/zephyrproject/.venv/bin/west build
+  topdir: /home/pininsu/Documents/BitDogZephyr/zephyrproject
+  version: 1.4.0

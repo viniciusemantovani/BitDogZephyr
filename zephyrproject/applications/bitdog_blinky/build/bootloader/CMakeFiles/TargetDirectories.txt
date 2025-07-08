@@ -1,0 +1,3 @@
+/home/pininsu/Documents/BitDogZephyr/zephyrproject/applications/bitdog_blinky/build/bootloader/CMakeFiles/rebuild_cache.dir
+/home/pininsu/Documents/BitDogZephyr/zephyrproject/applications/bitdog_blinky/build/bootloader/CMakeFiles/edit_cache.dir
+/home/pininsu/Documents/BitDogZephyr/zephyrproject/applications/bitdog_blinky/build/bootloader/CMakeFiles/boot_stage2.dir
