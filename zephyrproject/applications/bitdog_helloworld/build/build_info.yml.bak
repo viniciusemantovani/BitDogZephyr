@@ -1,5 +1,0 @@
-west:
-  command: /home/pininsu/Documents/BitDogZephyr/zephyrproject/.venv/bin/west build
-    -p -b rpi_pico
-  topdir: /home/pininsu/Documents/BitDogZephyr/zephyrproject
-  version: 1.4.0
