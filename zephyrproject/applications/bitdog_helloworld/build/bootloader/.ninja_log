@@ -1,0 +1,7 @@
+# ninja log v5
+1	16	1752029098681393005	CMakeFiles/boot_stage2.dir/home/pininsu/Documents/BitDogZephyr/zephyrproject/modules/hal/rpi_pico/src/rp2040/boot_stage2/boot2_w25q080.S.obj	587bc6eaa08dc308
+16	49	1752029098709393101	boot_stage2	e76174337d3e9657
+16	49	1752029098709393101	boot_stage2.bin	e76174337d3e9657
+16	49	1752029098709393101	boot_stage2.S	e76174337d3e9657
+16	49	1752029098709393101	/home/pininsu/Documents/BitDogZephyr/zephyrproject/applications/bitdog_helloworld/build/bootloader/boot_stage2.bin	e76174337d3e9657
+16	49	1752029098709393101	/home/pininsu/Documents/BitDogZephyr/zephyrproject/applications/bitdog_helloworld/build/bootloader/boot_stage2.S	e76174337d3e9657

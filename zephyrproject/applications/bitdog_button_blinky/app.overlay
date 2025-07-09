@@ -1,0 +1,21 @@
+/ {
+	leds {
+		compatible = "gpio-leds";
+		led0: led_0 {
+			gpios = <&gpio0 13 GPIO_ACTIVE_HIGH>;
+			label = "LED";
+		};
+	};
+
+	buttons {
+        compatible = "gpio-keys";
+        button_0: button_0 {
+            label = "ButtonA";
+            gpios = <&gpio0 5 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;
+        };
+    };
+
+	aliases {
+    	sw0 = &button_0;
+	};
+};
